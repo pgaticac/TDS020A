@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1022
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PRA1-Consola y Sintaxis", "PRA1-Consola y Sintaxis\PRA1-Consola y Sintaxis.csproj", "{EC8A338B-505F-420A-BE1A-7855CED601FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC8A338B-505F-420A-BE1A-7855CED601FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC8A338B-505F-420A-BE1A-7855CED601FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC8A338B-505F-420A-BE1A-7855CED601FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC8A338B-505F-420A-BE1A-7855CED601FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7A42A3B6-948A-4C6A-92F7-BBFCCE513C94}
+	EndGlobalSection
+EndGlobal
