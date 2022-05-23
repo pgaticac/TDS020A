@@ -1,0 +1,12 @@
+D:\TDS020 - Taller de Desarrollo de Software\repos\PRA2-ProgramaciónOrientadaAObjetos\Presentacion\bin\Debug\Presentacion.exe.config
+D:\TDS020 - Taller de Desarrollo de Software\repos\PRA2-ProgramaciónOrientadaAObjetos\Presentacion\bin\Debug\Presentacion.exe
+D:\TDS020 - Taller de Desarrollo de Software\repos\PRA2-ProgramaciónOrientadaAObjetos\Presentacion\bin\Debug\Presentacion.pdb
+D:\TDS020 - Taller de Desarrollo de Software\repos\PRA2-ProgramaciónOrientadaAObjetos\Presentacion\bin\Debug\Datos.dll
+D:\TDS020 - Taller de Desarrollo de Software\repos\PRA2-ProgramaciónOrientadaAObjetos\Presentacion\bin\Debug\Negocio.dll
+D:\TDS020 - Taller de Desarrollo de Software\repos\PRA2-ProgramaciónOrientadaAObjetos\Presentacion\bin\Debug\Datos.pdb
+D:\TDS020 - Taller de Desarrollo de Software\repos\PRA2-ProgramaciónOrientadaAObjetos\Presentacion\bin\Debug\Negocio.pdb
+D:\TDS020 - Taller de Desarrollo de Software\repos\PRA2-ProgramaciónOrientadaAObjetos\Presentacion\obj\Debug\Presentacion.csprojAssemblyReference.cache
+D:\TDS020 - Taller de Desarrollo de Software\repos\PRA2-ProgramaciónOrientadaAObjetos\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+D:\TDS020 - Taller de Desarrollo de Software\repos\PRA2-ProgramaciónOrientadaAObjetos\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+D:\TDS020 - Taller de Desarrollo de Software\repos\PRA2-ProgramaciónOrientadaAObjetos\Presentacion\obj\Debug\Presentacion.exe
+D:\TDS020 - Taller de Desarrollo de Software\repos\PRA2-ProgramaciónOrientadaAObjetos\Presentacion\obj\Debug\Presentacion.pdb

@@ -1,0 +1,9 @@
+D:\TDS020 - Taller de Desarrollo de Software\repos\PRA2-ProgramaciónOrientadaAObjetos\Negocio\bin\Debug\Negocio.dll
+D:\TDS020 - Taller de Desarrollo de Software\repos\PRA2-ProgramaciónOrientadaAObjetos\Negocio\bin\Debug\Negocio.pdb
+D:\TDS020 - Taller de Desarrollo de Software\repos\PRA2-ProgramaciónOrientadaAObjetos\Negocio\bin\Debug\Datos.dll
+D:\TDS020 - Taller de Desarrollo de Software\repos\PRA2-ProgramaciónOrientadaAObjetos\Negocio\bin\Debug\Datos.pdb
+D:\TDS020 - Taller de Desarrollo de Software\repos\PRA2-ProgramaciónOrientadaAObjetos\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+D:\TDS020 - Taller de Desarrollo de Software\repos\PRA2-ProgramaciónOrientadaAObjetos\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+D:\TDS020 - Taller de Desarrollo de Software\repos\PRA2-ProgramaciónOrientadaAObjetos\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+D:\TDS020 - Taller de Desarrollo de Software\repos\PRA2-ProgramaciónOrientadaAObjetos\Negocio\obj\Debug\Negocio.dll
+D:\TDS020 - Taller de Desarrollo de Software\repos\PRA2-ProgramaciónOrientadaAObjetos\Negocio\obj\Debug\Negocio.pdb
