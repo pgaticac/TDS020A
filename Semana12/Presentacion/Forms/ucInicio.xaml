@@ -1,0 +1,14 @@
+﻿<UserControl x:Class="Presentacion.Forms.ucInicio"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Presentacion.Forms"
+             mc:Ignorable="d" 
+              d:DesignHeight="600" d:DesignWidth="450"
+             Background="#FF007DA5">
+    <Grid>
+            <Image Source="img/bg_contactos.png" Margin="0,171,0,-171" />
+            <Label Content="Mi Agenda Telefónica" HorizontalAlignment="Left" Margin="55,171,0,0" VerticalAlignment="Top" Background="{x:Null}" Foreground="White" FontSize="36"/>
+    </Grid>
+</UserControl>
