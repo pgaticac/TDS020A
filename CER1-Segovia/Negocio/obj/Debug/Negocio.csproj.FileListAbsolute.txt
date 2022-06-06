@@ -1,0 +1,34 @@
+D:\TDS020 - Taller de Desarrollo de Software\repos\TDS020A\CER1-Segovia\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+D:\TDS020 - Taller de Desarrollo de Software\repos\TDS020A\CER1-Segovia\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+D:\TDS020 - Taller de Desarrollo de Software\repos\TDS020A\CER1-Segovia\Negocio\bin\Debug\Negocio.dll
+D:\TDS020 - Taller de Desarrollo de Software\repos\TDS020A\CER1-Segovia\Negocio\bin\Debug\Negocio.pdb
+D:\TDS020 - Taller de Desarrollo de Software\repos\TDS020A\CER1-Segovia\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+D:\TDS020 - Taller de Desarrollo de Software\repos\TDS020A\CER1-Segovia\Negocio\obj\Debug\Negocio.dll
+D:\TDS020 - Taller de Desarrollo de Software\repos\TDS020A\CER1-Segovia\Negocio\obj\Debug\Negocio.pdb
+D:\TDS020 - Taller de Desarrollo de Software\repos\TDS020A\CER1-Segovia\Negocio\bin\Debug\Negocio.dll.config
+D:\TDS020 - Taller de Desarrollo de Software\repos\TDS020A\CER1-Segovia\Negocio\bin\Debug\DatosSQL.dll
+D:\TDS020 - Taller de Desarrollo de Software\repos\TDS020A\CER1-Segovia\Negocio\bin\Debug\EntityFramework.dll
+D:\TDS020 - Taller de Desarrollo de Software\repos\TDS020A\CER1-Segovia\Negocio\bin\Debug\EntityFramework.SqlServer.dll
+D:\TDS020 - Taller de Desarrollo de Software\repos\TDS020A\CER1-Segovia\Negocio\bin\Debug\DatosSQL.pdb
+D:\TDS020 - Taller de Desarrollo de Software\repos\TDS020A\CER1-Segovia\Negocio\bin\Debug\DatosSQL.dll.config
+D:\TDS020 - Taller de Desarrollo de Software\repos\TDS020A\CER1-Segovia\Negocio\bin\Debug\EntityFramework.xml
+D:\TDS020 - Taller de Desarrollo de Software\repos\TDS020A\CER1-Segovia\Negocio\bin\Debug\EntityFramework.SqlServer.xml
+D:\TDS020 - Taller de Desarrollo de Software\repos\TDS020A\CER1-Segovia\Negocio\bin\Debug\Segovia_log.ldf
+D:\TDS020 - Taller de Desarrollo de Software\repos\TDS020A\CER1-Segovia\Negocio\bin\Debug\Segovia.mdf
+C:\Pame\repos\TDS020A\CER1-Segovia\Negocio\bin\Debug\Segovia.mdf
+C:\Pame\repos\TDS020A\CER1-Segovia\Negocio\bin\Debug\Segovia_log.ldf
+C:\Pame\repos\TDS020A\CER1-Segovia\Negocio\bin\Debug\Negocio.dll.config
+C:\Pame\repos\TDS020A\CER1-Segovia\Negocio\bin\Debug\Negocio.dll
+C:\Pame\repos\TDS020A\CER1-Segovia\Negocio\bin\Debug\Negocio.pdb
+C:\Pame\repos\TDS020A\CER1-Segovia\Negocio\bin\Debug\DatosSQL.dll
+C:\Pame\repos\TDS020A\CER1-Segovia\Negocio\bin\Debug\EntityFramework.dll
+C:\Pame\repos\TDS020A\CER1-Segovia\Negocio\bin\Debug\EntityFramework.SqlServer.dll
+C:\Pame\repos\TDS020A\CER1-Segovia\Negocio\bin\Debug\DatosSQL.pdb
+C:\Pame\repos\TDS020A\CER1-Segovia\Negocio\bin\Debug\DatosSQL.dll.config
+C:\Pame\repos\TDS020A\CER1-Segovia\Negocio\bin\Debug\EntityFramework.xml
+C:\Pame\repos\TDS020A\CER1-Segovia\Negocio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Pame\repos\TDS020A\CER1-Segovia\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+C:\Pame\repos\TDS020A\CER1-Segovia\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Pame\repos\TDS020A\CER1-Segovia\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Pame\repos\TDS020A\CER1-Segovia\Negocio\obj\Debug\Negocio.dll
+C:\Pame\repos\TDS020A\CER1-Segovia\Negocio\obj\Debug\Negocio.pdb

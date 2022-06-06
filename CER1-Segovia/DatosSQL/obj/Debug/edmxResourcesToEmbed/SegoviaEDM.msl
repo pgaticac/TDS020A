@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="SegoviaModelStoreContainer" CdmEntityContainer="SegoviaEntities">
+    <EntitySetMapping Name="Trabajador">
+      <EntityTypeMapping TypeName="SegoviaModel.Trabajador">
+        <MappingFragment StoreEntitySet="Trabajador">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Nombre" ColumnName="Nombre" />
+          <ScalarProperty Name="FechaNacimiento" ColumnName="FechaNacimiento" />
+          <ScalarProperty Name="Profesion" ColumnName="Profesion" />
+          <ScalarProperty Name="Experiencia" ColumnName="Experiencia" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

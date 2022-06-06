@@ -1,0 +1,56 @@
+D:\TDS020 - Taller de Desarrollo de Software\repos\TDS020A\CER1-Segovia\Presentacion\bin\Debug\Presentacion.exe.config
+D:\TDS020 - Taller de Desarrollo de Software\repos\TDS020A\CER1-Segovia\Presentacion\bin\Debug\Presentacion.exe
+D:\TDS020 - Taller de Desarrollo de Software\repos\TDS020A\CER1-Segovia\Presentacion\bin\Debug\Presentacion.pdb
+D:\TDS020 - Taller de Desarrollo de Software\repos\TDS020A\CER1-Segovia\Presentacion\obj\Debug\Presentacion.csprojAssemblyReference.cache
+D:\TDS020 - Taller de Desarrollo de Software\repos\TDS020A\CER1-Segovia\Presentacion\obj\Debug\MainWindow.g.cs
+D:\TDS020 - Taller de Desarrollo de Software\repos\TDS020A\CER1-Segovia\Presentacion\obj\Debug\App.g.cs
+D:\TDS020 - Taller de Desarrollo de Software\repos\TDS020A\CER1-Segovia\Presentacion\obj\Debug\Presentacion_MarkupCompile.cache
+D:\TDS020 - Taller de Desarrollo de Software\repos\TDS020A\CER1-Segovia\Presentacion\obj\Debug\Presentacion_MarkupCompile.lref
+D:\TDS020 - Taller de Desarrollo de Software\repos\TDS020A\CER1-Segovia\Presentacion\obj\Debug\MainWindow.baml
+D:\TDS020 - Taller de Desarrollo de Software\repos\TDS020A\CER1-Segovia\Presentacion\obj\Debug\Presentacion.g.resources
+D:\TDS020 - Taller de Desarrollo de Software\repos\TDS020A\CER1-Segovia\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+D:\TDS020 - Taller de Desarrollo de Software\repos\TDS020A\CER1-Segovia\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+D:\TDS020 - Taller de Desarrollo de Software\repos\TDS020A\CER1-Segovia\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+D:\TDS020 - Taller de Desarrollo de Software\repos\TDS020A\CER1-Segovia\Presentacion\obj\Debug\Presentacion.exe
+D:\TDS020 - Taller de Desarrollo de Software\repos\TDS020A\CER1-Segovia\Presentacion\obj\Debug\Presentacion.pdb
+D:\TDS020 - Taller de Desarrollo de Software\repos\TDS020A\CER1-Segovia\Presentacion\bin\Debug\Negocio.dll
+D:\TDS020 - Taller de Desarrollo de Software\repos\TDS020A\CER1-Segovia\Presentacion\bin\Debug\Negocio.pdb
+D:\TDS020 - Taller de Desarrollo de Software\repos\TDS020A\CER1-Segovia\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+D:\TDS020 - Taller de Desarrollo de Software\repos\TDS020A\CER1-Segovia\Presentacion\bin\Debug\DatosSQL.dll
+D:\TDS020 - Taller de Desarrollo de Software\repos\TDS020A\CER1-Segovia\Presentacion\bin\Debug\EntityFramework.dll
+D:\TDS020 - Taller de Desarrollo de Software\repos\TDS020A\CER1-Segovia\Presentacion\bin\Debug\EntityFramework.SqlServer.dll
+D:\TDS020 - Taller de Desarrollo de Software\repos\TDS020A\CER1-Segovia\Presentacion\bin\Debug\DatosSQL.pdb
+D:\TDS020 - Taller de Desarrollo de Software\repos\TDS020A\CER1-Segovia\Presentacion\bin\Debug\DatosSQL.dll.config
+D:\TDS020 - Taller de Desarrollo de Software\repos\TDS020A\CER1-Segovia\Presentacion\bin\Debug\Negocio.dll.config
+D:\TDS020 - Taller de Desarrollo de Software\repos\TDS020A\CER1-Segovia\Presentacion\bin\Debug\EntityFramework.xml
+D:\TDS020 - Taller de Desarrollo de Software\repos\TDS020A\CER1-Segovia\Presentacion\bin\Debug\EntityFramework.SqlServer.xml
+D:\TDS020 - Taller de Desarrollo de Software\repos\TDS020A\CER1-Segovia\Presentacion\bin\Debug\Segovia_log.ldf
+D:\TDS020 - Taller de Desarrollo de Software\repos\TDS020A\CER1-Segovia\Presentacion\bin\Debug\Segovia.mdf
+C:\Pame\repos\TDS020A\CER1-Segovia\Presentacion\bin\Debug\Segovia.mdf
+C:\Pame\repos\TDS020A\CER1-Segovia\Presentacion\bin\Debug\Segovia_log.ldf
+C:\Pame\repos\TDS020A\CER1-Segovia\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Pame\repos\TDS020A\CER1-Segovia\Presentacion\bin\Debug\Presentacion.exe
+C:\Pame\repos\TDS020A\CER1-Segovia\Presentacion\bin\Debug\Presentacion.pdb
+C:\Pame\repos\TDS020A\CER1-Segovia\Presentacion\bin\Debug\DatosSQL.dll
+C:\Pame\repos\TDS020A\CER1-Segovia\Presentacion\bin\Debug\EntityFramework.dll
+C:\Pame\repos\TDS020A\CER1-Segovia\Presentacion\bin\Debug\EntityFramework.SqlServer.dll
+C:\Pame\repos\TDS020A\CER1-Segovia\Presentacion\bin\Debug\Negocio.dll
+C:\Pame\repos\TDS020A\CER1-Segovia\Presentacion\bin\Debug\DatosSQL.pdb
+C:\Pame\repos\TDS020A\CER1-Segovia\Presentacion\bin\Debug\DatosSQL.dll.config
+C:\Pame\repos\TDS020A\CER1-Segovia\Presentacion\bin\Debug\Negocio.pdb
+C:\Pame\repos\TDS020A\CER1-Segovia\Presentacion\bin\Debug\Negocio.dll.config
+C:\Pame\repos\TDS020A\CER1-Segovia\Presentacion\bin\Debug\EntityFramework.xml
+C:\Pame\repos\TDS020A\CER1-Segovia\Presentacion\bin\Debug\EntityFramework.SqlServer.xml
+C:\Pame\repos\TDS020A\CER1-Segovia\Presentacion\obj\Debug\Presentacion.csprojAssemblyReference.cache
+C:\Pame\repos\TDS020A\CER1-Segovia\Presentacion\obj\Debug\MainWindow.g.cs
+C:\Pame\repos\TDS020A\CER1-Segovia\Presentacion\obj\Debug\App.g.cs
+C:\Pame\repos\TDS020A\CER1-Segovia\Presentacion\obj\Debug\Presentacion_MarkupCompile.cache
+C:\Pame\repos\TDS020A\CER1-Segovia\Presentacion\obj\Debug\Presentacion_MarkupCompile.lref
+C:\Pame\repos\TDS020A\CER1-Segovia\Presentacion\obj\Debug\MainWindow.baml
+C:\Pame\repos\TDS020A\CER1-Segovia\Presentacion\obj\Debug\Presentacion.g.resources
+C:\Pame\repos\TDS020A\CER1-Segovia\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Pame\repos\TDS020A\CER1-Segovia\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Pame\repos\TDS020A\CER1-Segovia\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Pame\repos\TDS020A\CER1-Segovia\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Pame\repos\TDS020A\CER1-Segovia\Presentacion\obj\Debug\Presentacion.exe
+C:\Pame\repos\TDS020A\CER1-Segovia\Presentacion\obj\Debug\Presentacion.pdb
