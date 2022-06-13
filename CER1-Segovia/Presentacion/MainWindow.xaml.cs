@@ -28,6 +28,8 @@ namespace Presentacion
             InitializeComponent();
             cboProfesion.ItemsSource = Enum.GetValues(typeof(Profesion));
             cboExperiencia.ItemsSource = Enum.GetValues(typeof(Experiencia));
+
+            ListarTrabajadores();
         }
 
         private void BtnAgregar_Click(object sender, RoutedEventArgs e)
@@ -52,20 +54,46 @@ namespace Presentacion
 
         private void ListarTrabajadores()
         {
-            List<Trabajador> trabajadores = tbll.getAll();
-            string lista = "";
-            foreach (Trabajador trabajador in trabajadores)
-            {
-                lista += trabajador;
-                lista += "-------------------\n";
-            }
-
-            txtTrabajadores.Text = lista;
+            List<Trabajador> trabajadores = tbll.GetAll();
+            dgTrabajadores.ItemsSource = trabajadores;
+            
         }
 
         private void BtnListar_Click(object sender, RoutedEventArgs e)
         {
             ListarTrabajadores();
+        }
+
+        private void BtnEliminar_Click(object sender, RoutedEventArgs e)
+        {
+            Trabajador t = (Trabajador) dgTrabajadores.SelectedItem;
+            tbll.Delete(t.Id);
+            ListarTrabajadores();
+        }
+
+        private void BtnModificar_Click(object sender, RoutedEventArgs e)
+        {
+            Trabajador t = (Trabajador)dgTrabajadores.SelectedItem;
+            txtNombre.Text = t.Nombre;
+            dtFechaNacimiento.SelectedDate = t.FechaNacimiento;
+            cboExperiencia.SelectedValue = Enum.Parse(typeof(Experiencia), t.Experiencia);
+            cboProfesion.SelectedValue = Enum.Parse(typeof(Profesion),t.Profesion);
+
+
+        }
+
+        private void BtnGuardar_Click(object sender, RoutedEventArgs e)
+        {
+            Trabajador t = (Trabajador)dgTrabajadores.SelectedItem;
+
+            tbll.Update(t.Id, 
+                        txtNombre.Text,
+                        (DateTime)dtFechaNacimiento.SelectedDate, 
+                        (Experiencia)cboExperiencia.SelectedValue, 
+                        (Profesion)cboProfesion.SelectedValue);
+
+            ListarTrabajadores();
+
         }
     }
 }

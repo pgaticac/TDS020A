@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Presentacion"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="MainWindow" Height="450" Width="1062.182">
     <Grid>
         <Label Content="Nombre: " HorizontalAlignment="Left" Margin="82,63,0,0" VerticalAlignment="Top"/>
         <Label Content="Fecha Nacimiento: " HorizontalAlignment="Left" Margin="82,101,0,0" VerticalAlignment="Top"/>
@@ -17,7 +17,20 @@
         <ComboBox x:Name="cboProfesion" HorizontalAlignment="Left" Margin="208,136,0,0" VerticalAlignment="Top" Width="241"/>
         <Button x:Name="btnAgregar" Content="Agregar" HorizontalAlignment="Left" Margin="82,226,0,0" VerticalAlignment="Top" Width="75" Click="BtnAgregar_Click"/>
         <Button x:Name="btnListar" Content="Ver" HorizontalAlignment="Left" Margin="178,226,0,0" VerticalAlignment="Top" Width="75" Click="BtnListar_Click"/>
-        <TextBlock x:Name="txtTrabajadores" HorizontalAlignment="Left" Margin="542,50,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Height="347" Width="228"/>
+        <DataGrid x:Name="dgTrabajadores" ColumnWidth="*" AutoGenerateColumns="False" IsReadOnly="True" CanUserAddRows="False" HorizontalAlignment="Left" Height="337" Margin="539,40,0,0" VerticalAlignment="Top" Width="485">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Id" Binding="{Binding Id}" />
+                <DataGridTextColumn Header="Nombre" Binding="{Binding Nombre}" />
+                <DataGridTextColumn Header="Fecha Nacimiento" Binding="{Binding FechaNacimiento }"   />
+                <DataGridTextColumn Header="Edad" Binding="{Binding Edad}" />
+                <DataGridTextColumn Header="Profesión" Binding="{Binding Profesion}" />
+                <DataGridTextColumn Header="Experiencia" Binding="{Binding Experiencia}" />
+                <DataGridTextColumn Header="Sueldo" Binding="{Binding Sueldo}" />
+            </DataGrid.Columns>
+        </DataGrid>
+        <Button x:Name="btnEliminar" Content="Eliminar" HorizontalAlignment="Left" Margin="949,389,0,0" VerticalAlignment="Top" Width="75" RenderTransformOrigin="0.349,-0.589" Click="BtnEliminar_Click"/>
+        <Button x:Name="btnModificar" Content="Modificar" HorizontalAlignment="Left" Margin="855,389,0,0" VerticalAlignment="Top" Width="75" Click="BtnModificar_Click"/>
+        <Button x:Name="btnGuardar" Content="Guardar Cambios" HorizontalAlignment="Left" Margin="342,226,0,0" VerticalAlignment="Top" Width="107" Click="BtnGuardar_Click"/>
 
     </Grid>
 </Window>

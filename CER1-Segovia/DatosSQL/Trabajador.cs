@@ -11,12 +11,18 @@ namespace DatosSQL
 {
     using System;
     using System.Collections.Generic;
-    
+
     public partial class Trabajador
     {
+        private DateTime _fechaNacimiento;
+
         public int Id { get; set; }
         public string Nombre { get; set; }
-        public System.DateTime FechaNacimiento { get; set; }
+        public System.DateTime FechaNacimiento
+        {
+            get { return _fechaNacimiento; }
+            set { _fechaNacimiento = value; }
+        }
         public string Profesion { get; set; }
         public string Experiencia { get; set; }
 
@@ -77,7 +83,7 @@ namespace DatosSQL
                 bonoExperiencia = sueldoBase * 50 / 100;
             }
 
-                     
+
 
             if (Edad > 55)
             {
